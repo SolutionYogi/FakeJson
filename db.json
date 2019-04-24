@@ -1,7 +1,7 @@
 {
     "pnlInfo": [
         {
-            "Id" : 1
+            "Id" : 1,
             "Name": "XMV",
             "Strategy": [
                 {
