@@ -1,7 +1,8 @@
 {
-    "pnlInfo": [
+    "pnlInfo": 
+    [
         {
-            "Id" : 1,
+            "id": 1,
             "Name": "XMV",
             "Strategy": [
                 {
@@ -17,7 +18,7 @@
                 {
                     "Type": "Overhead",
                     "DollarAmount": -16823,
-                    "BpsAmount": 0.0
+                    "BpsAmount": 0
                 },
                 {
                     "Type": "PBAccount",
@@ -27,7 +28,7 @@
                 {
                     "Type": "PBFee",
                     "DollarAmount": -14281,
-                    "BpsAmount": 0.0
+                    "BpsAmount": 0
                 },
                 {
                     "Type": "ManagementFee",
@@ -37,7 +38,7 @@
                 {
                     "Type": "Adjustment",
                     "DollarAmount": 0,
-                    "BpsAmount": 0.0
+                    "BpsAmount": 0
                 },
                 {
                     "Type": "GrossTotal",
