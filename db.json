@@ -1,0 +1,50 @@
+{
+    "pnlInfo": [
+        {
+            "Name": "XMV",
+            "Strategy": [
+                {
+                    "Type": "Trading",
+                    "DollarAmount": 5535801,
+                    "BpsAmount": 5.7
+                },
+                {
+                    "Type": "Trading",
+                    "DollarAmount": 5535801,
+                    "BpsAmount": 5.7
+                },
+                {
+                    "Type": "Overhead",
+                    "DollarAmount": -16823,
+                    "BpsAmount": 0.0
+                },
+                {
+                    "Type": "PBAccount",
+                    "DollarAmount": 272676,
+                    "BpsAmount": 0.3
+                },
+                {
+                    "Type": "PBFee",
+                    "DollarAmount": -14281,
+                    "BpsAmount": 0.0
+                },
+                {
+                    "Type": "ManagementFee",
+                    "DollarAmount": -163569,
+                    "BpsAmount": 0.2
+                },
+                {
+                    "Type": "Adjustment",
+                    "DollarAmount": 0,
+                    "BpsAmount": 0.0
+                },
+                {
+                    "Type": "GrossTotal",
+                    "DollarAmount": 5613805,
+                    "BpsAmount": 5.8
+                }
+            ],
+            "Funds": []
+        }
+    ]
+}
