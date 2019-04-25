@@ -4,7 +4,7 @@
             "Type": "Strategy",
             "Name": "XMV",
             "TradingAssets": 2134234232.0,
-            "PercentageAllocation": 100.0,
+            "PercentageAllocation": 1.0,
             "LineItems": [
                 {
                     "Period": "Dtd",
@@ -44,6 +44,90 @@
                 },
                 {
                     "Period": "Dtd",
+                    "Type": "Gross Total",
+                    "DollarAmount": 12999.56,
+                    "BpsAmount": 0.04
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "Trading",
+                    "DollarAmount": 82255.26,
+                    "BpsAmount": 0.25
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "Overhead",
+                    "DollarAmount": -15833.33,
+                    "BpsAmount": -0.05
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "PBAccount",
+                    "DollarAmount": 153766.0,
+                    "BpsAmount": 0.47
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "PBFee",
+                    "DollarAmount": -30426.11,
+                    "BpsAmount": -0.09
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "ManagementFee",
+                    "DollarAmount": -176762.26,
+                    "BpsAmount": -0.54
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "Adjustment",
+                    "DollarAmount": 0.0,
+                    "BpsAmount": 0.0
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "Gross Total",
+                    "DollarAmount": 12999.56,
+                    "BpsAmount": 0.04
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "Trading",
+                    "DollarAmount": 82255.26,
+                    "BpsAmount": 0.25
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "Overhead",
+                    "DollarAmount": -15833.33,
+                    "BpsAmount": -0.05
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "PBAccount",
+                    "DollarAmount": 153766.0,
+                    "BpsAmount": 0.47
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "PBFee",
+                    "DollarAmount": -30426.11,
+                    "BpsAmount": -0.09
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "ManagementFee",
+                    "DollarAmount": -176762.26,
+                    "BpsAmount": -0.54
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "Adjustment",
+                    "DollarAmount": 0.0,
+                    "BpsAmount": 0.0
+                },
+                {
+                    "Period": "Ytd",
                     "Type": "Gross Total",
                     "DollarAmount": 12999.56,
                     "BpsAmount": 0.04
@@ -93,8 +177,94 @@
                     "BpsAmount": 0.04
                 }
             ],
-            "MtdLineItems": [],
-            "YtdLineItems": []
+            "MtdLineItems": [
+                {
+                    "Period": "Mtd",
+                    "Type": "Trading",
+                    "DollarAmount": 82255.26,
+                    "BpsAmount": 0.25
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "Overhead",
+                    "DollarAmount": -15833.33,
+                    "BpsAmount": -0.05
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "PBAccount",
+                    "DollarAmount": 153766.0,
+                    "BpsAmount": 0.47
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "PBFee",
+                    "DollarAmount": -30426.11,
+                    "BpsAmount": -0.09
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "ManagementFee",
+                    "DollarAmount": -176762.26,
+                    "BpsAmount": -0.54
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "Adjustment",
+                    "DollarAmount": 0.0,
+                    "BpsAmount": 0.0
+                },
+                {
+                    "Period": "Mtd",
+                    "Type": "Gross Total",
+                    "DollarAmount": 12999.56,
+                    "BpsAmount": 0.04
+                }
+            ],
+            "YtdLineItems": [
+                {
+                    "Period": "Ytd",
+                    "Type": "Trading",
+                    "DollarAmount": 82255.26,
+                    "BpsAmount": 0.25
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "Overhead",
+                    "DollarAmount": -15833.33,
+                    "BpsAmount": -0.05
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "PBAccount",
+                    "DollarAmount": 153766.0,
+                    "BpsAmount": 0.47
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "PBFee",
+                    "DollarAmount": -30426.11,
+                    "BpsAmount": -0.09
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "ManagementFee",
+                    "DollarAmount": -176762.26,
+                    "BpsAmount": -0.54
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "Adjustment",
+                    "DollarAmount": 0.0,
+                    "BpsAmount": 0.0
+                },
+                {
+                    "Period": "Ytd",
+                    "Type": "Gross Total",
+                    "DollarAmount": 12999.56,
+                    "BpsAmount": 0.04
+                }
+            ]
         },
         {
             "Type": "Fund",
