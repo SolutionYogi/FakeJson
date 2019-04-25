@@ -97,10 +97,10 @@
             "YtdLineItems": []
         },
         {
-            "Type": "Strategy",
-            "Name": "XMV",
-            "TradingAssets": 2134234232.0,
-            "PercentageAllocation": 100.0,
+            "Type": "Fund",
+            "Name": "ALPHA",
+            "TradingAssets": 24324242.0,
+            "PercentageAllocation": 0.3,
             "LineItems": [
                 {
                     "Period": "Dtd",
